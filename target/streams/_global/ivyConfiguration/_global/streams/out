@@ -1,0 +1,8 @@
+[warn] insecure HTTP request is deprecated 'http://repository.jboss.org/nexus/content/repositories/releases/'; switch to HTTPS or opt-in as ("JBoss Repository" at "http://repository.jboss.org/nexus/content/repositories/releases/").withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'http://repo.spray.cc/'; switch to HTTPS or opt-in as ("Spray Repository" at "http://repo.spray.cc/").withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'http://repo.akka.io/releases/'; switch to HTTPS or opt-in as ("Akka Repository" at "http://repo.akka.io/releases/").withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'http://twitter4j.org/maven2/'; switch to HTTPS or opt-in as ("Twitter4J Repository" at "http://twitter4j.org/maven2/").withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'http://maven.twttr.com/'; switch to HTTPS or opt-in as ("Twitter Maven Repo" at "http://maven.twttr.com/").withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'http://repo.typesafe.com/typesafe/releases/'; switch to HTTPS or opt-in as ("Typesafe repository" at "http://repo.typesafe.com/typesafe/releases/").withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'http://repo.typesafe.com/typesafe/maven-releases/'; switch to HTTPS or opt-in as ("Second Typesafe repo" at "http://repo.typesafe.com/typesafe/maven-releases/").withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'http://downloads.mesosphere.io/maven'; switch to HTTPS or opt-in as ("Mesosphere Public Repository" at "http://downloads.mesosphere.io/maven").withAllowInsecureProtocol(true)
